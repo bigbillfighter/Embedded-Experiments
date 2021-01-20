@@ -1,0 +1,22 @@
+set number
+set showcmd
+set showmode
+filetype indent plugin on
+set ts=4
+set expandtab
+set syntax=on
+set mouse=a
+set encoding=utf-8
+set t_Co=256
+set autoindent
+set shiftwidth=4
+set wrap
+set linebreak
+set wrapmargin=2
+set laststatus=2
+set hlsearch
+set ignorecase
+set history=100
+set wildmenu
+set wildmode=longest:list,full
+set backspace=indent,eol,start

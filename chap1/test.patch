@@ -1,0 +1,9 @@
+--- test.c	2020-11-04 11:35:05.282128206 +0800
++++ test1.c	2020-11-04 11:56:49.206128206 +0800
+@@ -1,5 +1,5 @@
+ #include<stdio.h>
+ int main(){
+-    printf("Hello World!");
++    printf("Hello, my friend!");
+     return 0;
+ }
